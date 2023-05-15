@@ -1,0 +1,9 @@
+-Airliner:
+Boeing 747: 988 km/h
+Airbus A380: 1.185 km/h
+Airbus A350: 945 km/h
+Boeing 777: 1.076 km/h
+-War planes:
+sukhoi su-34: 2.200 km/h
+sukhoi su-35: 2.778 km/h
+A10-Warthog: 676 km/h

@@ -1,0 +1,10 @@
+-recommended locations:
+US: Los angeles, Houston.
+Switzerland: Bern, Geneva.
+Egypt: Cairo.
+China: Beijing, Nanjing.
+Vietnam: HCMcity, DaNang.
+-War zones:
+Ukraine: Kiev, Odessa.
+-Null:
+Russia: N/A.
