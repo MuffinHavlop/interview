@@ -37,8 +37,9 @@ while True:
                     #xem model
             elif option == "y":  
                 while True: 
-                    arrival = input("select your destination(if you haven't viewed, press B): ")
-                    if arrival == "B" or arrival == "b":
+                    arrival = input("select your destination(if you haven't viewed, press B): ")\
+                    arrival = arrival.upper()
+                    if arrival == "B":
                         break
                     #nhấn B để quay trở lại phần (1) xem lại location và model
                     else:
